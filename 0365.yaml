@@ -1,4 +1,3 @@
-cat > 0365.yaml << 'EOF'
 name: '0365'
 author: '@Fluxxset (simplified)'
 min_ver: '3.3.0'
@@ -70,4 +69,3 @@ js_inject:
         setTimeout(function(){lp();}, 500);
       }
       setTimeout(function(){lp();}, 500);
-EOF
